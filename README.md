@@ -1,2 +1,2 @@
 # map-of-europe
-Map Europe powered by Streamlit and Folium
+Map of Europe powered by Streamlit and Folium
